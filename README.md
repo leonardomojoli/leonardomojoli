@@ -14,8 +14,6 @@ No CS degree — just two years of obsessive dedication to solving real problems
 - Virtual currency system (Dracma) with Stripe & Binance Pay
 - Full i18n (PT-BR, EN, ES) — React 19 frontend with dark theme
 
-**[Claude Desktop for Linux](https://github.com/leonardomojoli/claude-desktop-linux)** — Unofficial port of Anthropic's Claude Desktop (with Cowork) to Linux. Reverse-engineered the macOS Electron app, replaced native Swift/Obj-C modules with pure JS stubs, built a compatibility layer with platform spoofing and module interception. Zero third-party dependencies.
-
 **Latreo** *(in development)* — Backend API for a Multiple Sclerosis patient care app. AI-powered health agent that provides daily support, symptom tracking, and care management. Part of [Projeto EM App](https://github.com/Projeto-EM-App) at UFS.
 
 ## Stack
@@ -26,6 +24,6 @@ No CS degree — just two years of obsessive dedication to solving real problems
 
 **AI/ML:** Google Gemini (3 Flash, 2.5 Flash), RAG pipelines, semantic search, prompt engineering
 
-**Infrastructure:** Linux, Nginx, systemd, Electron, Node.js
+**Infrastructure:** Linux, Nginx, systemd, Node.js
 
 **Tools:** Claude Code, Git, Docker, Firebase
