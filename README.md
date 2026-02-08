@@ -20,7 +20,7 @@ No CS degree — just two years of obsessive dedication to solving real problems
 
 **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, ChromaDB, Alembic
 
-**Frontend:** React, JavaScript, CSS Modules, Vite
+**Frontend:** React, JavaScript, CSS Modules, Vite, Electron
 
 **AI/ML:** Google Gemini (3 Flash, 2.5 Flash), RAG pipelines, semantic search, prompt engineering
 
